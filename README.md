@@ -42,3 +42,4 @@ admin.site.register(Employee,EmployeeAdmin)
 ## OUTPUT
 ![](django.png)
 ## RESULT
+Thus the django orm app is successfully created
