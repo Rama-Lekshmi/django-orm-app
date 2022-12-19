@@ -8,11 +8,14 @@ To develop a Django application to store and retrieve data from a database using
 
 ## DESIGN STEPS
 
-### STEP 1:
+### STEP 1: 
+create the superuser 
 
 ### STEP 2:
+make table details
 
 ### STEP 3:
+create a minimum of ten users
 
 Write your own steps
 
